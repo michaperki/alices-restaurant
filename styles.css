@@ -1,3 +1,8 @@
-img {
-    width: 100px;
+/*
+* Some generalized styling for the page
+*/
+
+body {
+    text-align: center;
+    font-family: Helvetica;
 }
