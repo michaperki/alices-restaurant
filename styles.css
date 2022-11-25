@@ -26,9 +26,9 @@ body {
 
 .Landing {
     height: 90vh;
-    background-image: url(images/drivethru.png);
+    background-image: url(images/table.png);
     background-size: cover;
-    /*overflow: auto;*/
+    overflow: auto;
 }
 
 .Landing .Sign {
